@@ -179,3 +179,8 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+.DS_Store
+/data/PACMAN/G102/run_2024-10-19_12-00-36_AUMic_G102/figs
+/data/PACMAN/G141/run_2024-10-19_12-11-10_AUMic_G141/ancil
+/data/PACMAN/G141/run_2024-10-19_12-11-10_AUMic_G141/figs
+/data/PACMAN/G102/run_2024-10-19_12-00-36_AUMic_G102/ancil
