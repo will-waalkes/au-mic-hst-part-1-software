@@ -9,7 +9,7 @@ import re
 
 def bt_settl_model_spectra(bin_wl, path=None):
     if path is None:
-        path = '../bt-settl/lte*.txt'
+        path = '../../bt-settl/lte*.txt'
 
     paths = glob(path)
     bt_settl_temperature_grid = {}
@@ -81,7 +81,7 @@ def bt_settl_model_spectra_3d(bin_wl, path=None):
     bt_settl_grid: 4D grid of spectra [n_temp, n_logg, n_metal, n_wavelength]
     """
     if path is None:
-        path = '../bt-settl/lte*.txt'
+        path = '../../bt-settl/lte*.txt'
 
     paths = glob(path)
     
