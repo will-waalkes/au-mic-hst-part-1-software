@@ -201,3 +201,6 @@ notebooks/Figure_5-6/S22_60000samples_12chains_3spots_whitelight_2025_12_30
 notebooks/Figure_7/F21_8000samples_8chains_whitelight_linear_2025_12_24
 notebooks/Figure_7/S22_8000samples_8chains_whitelight_linear_2025_12_28-transitonly
 *.txt
+*.pkl
+.vscode/settings.json
+/samples

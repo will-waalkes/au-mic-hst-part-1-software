@@ -1,7 +1,7 @@
 This repository contains notebooks to reproduce the figures in Waalkes et al. (2026), AJ.
 Notebooks are contained in the notebooks/ subdirectory, data and other files accessed by the notebooks are in the data/ subdirectory, and MCMC samples accessed by the notebooks are in the samples/ subdirectory. 
 
-
+There are two conda environment files; platon_env.yaml is the environment set up to run the notebook for Figures 10, 11, and 12. All other notebooks can be run with the environment pyjax312_env.yaml.
 
 
 ##### License #####
